@@ -1,5 +1,3 @@
-console.log("Client side javascipt file is loaded!");
-
 /*
 //Example
 fetch("https://puzzle.mead.io/puzzle").then((response) => {
